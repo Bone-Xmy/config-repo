@@ -1,1 +1,13 @@
 
+## 开启所有的 actuator-endpoint
+management:
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+        # 生产环境不会开启所有端点，生产参考： include: health, info, xxxx
+  security:
+    enabled: false
