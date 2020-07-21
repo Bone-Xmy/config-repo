@@ -1,0 +1,3 @@
+posdb:
+  url: 'jdbc:mysql://192.168.1.165:3306/db_pos?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
+  password: '{cipher}680db97a16802bf4cefcb74a1d3b61f3c97c748a13e28e2d063ac5a3bdfdedad'
