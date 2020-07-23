@@ -1,8 +1,8 @@
 posdb:
   url: 'jdbc:mysql://192.168.1.165:3306/db_pos?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
-  username: 'bone'
-  password: '{cipher}680db97a16802bf4cefcb74a1d3b61f3c97c748a13e28e2d063ac5a3bdfdedad'
+  username: '{cipher}c1ff6d522ff1e306ab57b0f70b281798390345ea70836493e2d05e9be444565f'
+  password: '{cipher}ad5d9a3e3307cf2ba03c78917a41a4e02d6e6b639226a5d088936f7af028f79c'
 
 posRedis:
-  host: 'host'
-  password: '{cipher}d0abd4aacf7d5b6ed800c0900fb6e14bdafd7764362a5c714021c59ff3b21372'
+  host: '192.168.1.165'
+  password: '{cipher}6937c4eae1182b5d43a8578e70c2c5bc064bda4e58b1169d5569495966fa2d30'
