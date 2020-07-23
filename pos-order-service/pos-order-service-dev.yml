@@ -2,3 +2,7 @@ posdb:
   url: 'jdbc:mysql://192.168.1.165:3306/db_pos?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
   username: 'bone'
   password: '{cipher}680db97a16802bf4cefcb74a1d3b61f3c97c748a13e28e2d063ac5a3bdfdedad'
+
+posRedis:
+  host: 'host'
+  password: '{cipher}d0abd4aacf7d5b6ed800c0900fb6e14bdafd7764362a5c714021c59ff3b21372'
