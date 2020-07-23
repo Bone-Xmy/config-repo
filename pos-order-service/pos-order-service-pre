@@ -1,0 +1,8 @@
+posdb:
+  url: 'jdbc:mysql://192.168.7.90:3306/db_pos?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true&serverTimezone=UTC'
+  username: '{cipher}f5171e7348c4aef5c8d84f640b4a8e6dcdd5025097a61a47281c56e75feb3c6d'
+  password: '{cipher}67975607b598c3d1aacd8dd443c1a1620149ef9af9115d4a28997e858844248a'
+
+posRedis:
+  host: '192.168.7.90'
+  password: '{cipher}2492d57ee727c0de4fdc31835d9e51e99d91cfcfeac91fdb47e53719f54552bf'
